@@ -1,0 +1,7 @@
+C:\Users\ksobon\Google Drive\Work\GrimshawTools\LegendDuplicator\LegendDuplicator\bin\Debug\LegendDuplicator.addin
+C:\Users\ksobon\Google Drive\Work\GrimshawTools\LegendDuplicator\LegendDuplicator\bin\Debug\LegendDuplicator.dll
+C:\Users\ksobon\Google Drive\Work\GrimshawTools\LegendDuplicator\LegendDuplicator\bin\Debug\LegendDuplicator.pdb
+C:\Users\ksobon\Google Drive\Work\GrimshawTools\LegendDuplicator\LegendDuplicator\obj\Debug\LegendDuplicator.dll
+C:\Users\ksobon\Google Drive\Work\GrimshawTools\LegendDuplicator\LegendDuplicator\obj\Debug\LegendDuplicator.pdb
+C:\Users\ksobon\Google Drive\Work\GrimshawTools\LegendDuplicator\LegendDuplicator\obj\Debug\LegendDuplicator.LegendDuplicatorForm.resources
+C:\Users\ksobon\Google Drive\Work\GrimshawTools\LegendDuplicator\LegendDuplicator\obj\Debug\LegendDuplicator.csproj.GenerateResource.Cache
