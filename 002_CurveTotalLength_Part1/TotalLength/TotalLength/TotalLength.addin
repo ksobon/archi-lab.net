@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>TotalLength.dll</Assembly>
+    <ClientId>280BB447-F630-48B0-99BE-6A776AC7B5C8</ClientId>
+    <FullClassName>TotalLength.CurveTotalLength</FullClassName>
+    <Text>MeasureLength</Text>
+    <VendorId>Konrad K Sobon</VendorId>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+  </AddIn>
+</RevitAddIns>
